@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+/L4n9dlXznrj5Z0rEUpV9bDsvBxGj+h4Vhyx8UAqIUlYH3BfwIXuP+LXsfCAOcNhSzzRIPdZoR5Kw4p6nPjA==",
+  "dgSpecHash": "7mhWlM6Rx5kCxeWQ+YMFGiFKAYKWtXCAGSSAnhZIronNkFTgEoHRFU8Lfb3LHm9u8F1bYr+UFm/+I7ahoSb/5Q==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+  "projectFilePath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rucks\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\rucks\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

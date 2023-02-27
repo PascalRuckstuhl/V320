@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+      "projectUniqueName": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
       "projectName": "SmartHomeSimulation.Test",
-      "projectPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+      "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
       "packagesPath": "C:\\Users\\rucks\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\obj\\",
+      "outputPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rucks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6378,8 +6378,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
-              "projectPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
+            "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
+              "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
             }
           }
         }

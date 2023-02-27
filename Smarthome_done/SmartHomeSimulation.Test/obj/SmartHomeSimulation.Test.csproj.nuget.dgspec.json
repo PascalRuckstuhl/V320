@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {}
+    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {
+    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+        "projectUniqueName": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
         "projectName": "SmartHomeSimulation.Test",
-        "projectPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
+        "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\SmartHomeSimulation.Test.csproj",
         "packagesPath": "C:\\Users\\rucks\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation.Test\\obj\\",
+        "outputPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rucks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
-                "projectPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
+              "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
+                "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
+    "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
+        "projectUniqueName": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
         "projectName": "SmartHomeSimulation",
-        "projectPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
+        "projectPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\SmartHomeSimulation.csproj",
         "packagesPath": "C:\\Users\\rucks\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Smarthome_done\\SmartHomeSimulation\\obj\\",
+        "outputPath": "C:\\Git\\V320\\Smarthome_done\\SmartHomeSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rucks\\AppData\\Roaming\\NuGet\\NuGet.Config",

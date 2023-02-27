@@ -1,0 +1,15 @@
+C:\Git\V320\Stack\MyStack\bin\Debug\net6.0\StackDemo.exe
+C:\Git\V320\Stack\MyStack\bin\Debug\net6.0\StackDemo.deps.json
+C:\Git\V320\Stack\MyStack\bin\Debug\net6.0\StackDemo.runtimeconfig.json
+C:\Git\V320\Stack\MyStack\bin\Debug\net6.0\StackDemo.dll
+C:\Git\V320\Stack\MyStack\bin\Debug\net6.0\StackDemo.pdb
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.csproj.AssemblyReference.cache
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.AssemblyInfoInputs.cache
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.AssemblyInfo.cs
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.csproj.CoreCompileInputs.cache
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.dll
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\refint\StackDemo.dll
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.pdb
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\StackDemo.genruntimeconfig.cache
+C:\Git\V320\Stack\MyStack\obj\Debug\net6.0\ref\StackDemo.dll
